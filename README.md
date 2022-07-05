@@ -4,7 +4,7 @@
 
 To fulfill my client's user story request, I created a codebase that followed their accesibility standards to optimize their search engines.
 
-I reviewed edited their html and css files to make sure:
+I reviewed and edited their html and css files to make sure:
 
 - All links were working correctly
 - To consolidate CSS selectors and properties
