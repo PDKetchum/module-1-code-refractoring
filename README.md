@@ -12,7 +12,7 @@ I reviewed and edited their html and css files to make sure:
 - Include any comments in the CSS and HTML files
 - All accessibility standards were met
 
-I learned a lot about different semantic HTML elements. While I was working on fixing and consilidating code, I hit alot of bumps on the road that made me realize how important attention of detail is for coding. A typo can throw off the whole output of a page.
+I learned a lot about different semantic HTML elements. While I was working on fixing and consilidating code, I hit a lot of bumps on the road that made me realize how important attention of detail is for coding. A typo can throw off the whole output of a page.
 
 # Installation:
 
