@@ -1,4 +1,4 @@
-/* Re-organized css selectors and properties to follow semantic structure */
+/* Re-organized CSS selectors and properties to follow semantic structure */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -36,7 +36,7 @@ p {
   color: #d9dcd6;
 }
 
-/* Renamed html div to semantic element nav and consolidated margin left */
+/* Switched html div to semantic element nav and consolidated margin left */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -47,7 +47,7 @@ p {
 }
 /* Removed ul and li styling */
 
-/* Removed background image link and styling. Added image to html. Added styling to image */
+/* Removed background image link and styling. Added image to HTML. Added styling to image */
 .hero {
   max-height: 800px;
   width: 100%;
