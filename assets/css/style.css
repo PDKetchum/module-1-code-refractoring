@@ -49,7 +49,7 @@ p {
 
 /* Removed background image link and styling. Added image to HTML. Added styling to image */
 .hero {
-  max-height: 800px;
+  height: 100%;
   width: 100%;
   margin-bottom: 25px;
   display: block;

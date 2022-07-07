@@ -14,7 +14,7 @@ I reviewed and edited their html and css files to make sure:
 
 I learned a lot about different semantic HTML elements. While I was working on fixing and consilidating code, I hit a lot of bumps on the road that made me realize how important attention of detail is for coding. A typo can throw off the whole output of a page.
 
-# Installation:
+## Installation:
 
 1. `git clone git@github.com:PDKetchum/module-1-code-refractoring.git`
 2. Open `index.html`
@@ -22,3 +22,6 @@ I learned a lot about different semantic HTML elements. While I was working on f
 Hosted: https://pdketchum.github.io/module-1-code-refractoring/
 
 GitHub URL: https://github.com/PDKetchum/module-1-code-refractoring
+
+![](./assets/images/captures_chrome-capture-2022-6-6.png)
+_Screenshot of page_
