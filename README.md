@@ -23,5 +23,5 @@ Hosted: https://pdketchum.github.io/module-1-code-refractoring/
 
 GitHub URL: https://github.com/PDKetchum/module-1-code-refractoring
 
-![](./assets/images/captures_chrome-capture-2022-6-6.png)
+![](captures_chrome-capture-2022-6-6.png)
 _Screenshot of page_
